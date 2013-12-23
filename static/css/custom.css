@@ -1,0 +1,17 @@
+@import url("screen.css"); /* default gitit screen styles */
+@import url("hk-pyg.css"); /* for syntax highlighting */
+
+/* Put your custom style modifications here: */
+
+#logo {
+    text-align: center;
+}
+
+#logo img {
+    width: 100px;
+    height: 100px;
+}
+
+#TOC {
+    float: right;
+}
